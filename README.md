@@ -1,16 +1,25 @@
-# React + Vite
+# My First React App 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+My first interactive web application built with React + Vite.
 
-Currently, two official plugins are available:
+**Live Demo:** https://my-first-react-app-zdpx.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## What It Does
 
-## React Compiler
+- A counter with **Increase, Decrease, and Reset** buttons
+- Shows if the number is **Even or Odd**
+- A name input that greets you when you type your name
+- A personal intro: "Hi, My name is Habeeb, I am learning React..."
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## What I Learned
 
-## Expanding the Oxlint configuration
+- React Components
+- `useState` Hook
+- Props & Events
+- Deploying with Vercel & GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## How To Run It Locally
+
+1. Clone the repo:
+```bash
+git clone https://github.com/osabiyihabeeb-ops/my-first-react-app.git
